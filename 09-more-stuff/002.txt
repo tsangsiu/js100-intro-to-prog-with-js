@@ -1,0 +1,4 @@
+The error message and stack trace tell us that the program exercise2.js raises
+a ReferenceError that the variable greeting is not defined. This occurs in the 
+function named hello at line 4 column 15 in exercise2.js, and the function is 
+called at line 13 column 1 in exercise1.js.

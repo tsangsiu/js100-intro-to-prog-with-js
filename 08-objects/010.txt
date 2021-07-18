@@ -1,0 +1,13 @@
+Primitive Values (There are 6):
+1
+2
+"a"
+"b"
+false
+null
+
+Objects (There are 4):
+["b", false]
+{}
+["a", ["b", false]]
+[1, 2, ["a", ["b", false]], null, {}]
